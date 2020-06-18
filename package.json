@@ -1,0 +1,21 @@
+{
+  "name": "9ki_project",
+  "version": "1.0.0",
+  "description": "Landing page for 9ki project website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "project",
+    "9ki",
+    "fwang"
+  ],
+  "author": "Adeniyi Emmanuel",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
